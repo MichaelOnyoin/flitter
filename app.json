@@ -8,7 +8,7 @@
     "scheme": "flitter",
     "userInterfaceStyle": "automatic",
     "ios": {
-      "icon": "./assets/expo.icon"
+      
     },
     "android": {
       "adaptiveIcon": {
