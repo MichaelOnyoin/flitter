@@ -27,6 +27,9 @@ export default function AppTabs() {
           <TabTrigger name="explore" href="/explore" asChild>
             <TabButton>Explore</TabButton>
           </TabTrigger>
+          <TabTrigger name="driver" href="/driver" asChild>
+            <TabButton>Driver</TabButton>
+          </TabTrigger>
         </CustomTabList>
       </TabList>
     </Tabs>
